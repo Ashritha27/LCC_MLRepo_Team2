@@ -1,3 +1,8 @@
+/*
+Created on November 02, 2018
+@author: ashrithashetty
+*/
+
 //Program to find the sum of numbers in a given range in C++
 #include <iostream>
 
